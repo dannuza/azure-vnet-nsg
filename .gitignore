@@ -1,0 +1,21 @@
+# VS Code settings
+.vscode/
+
+# Node, Python, etc.
+node_modules/
+__pycache__/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Terraform (se fosse usar futuramente)
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Azure credentials
+.azure/
